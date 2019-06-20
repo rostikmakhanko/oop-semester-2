@@ -1,4 +1,4 @@
-Medium is an online publishing platform, example of social journalism. Go medium.com to get your eyes on it.
+Medium is an online publishing platform, example of social journalism. Go medium.com to have your eyes on it.
 Guest is person who is visiting Medium, but didn't log in to account.
 User is person who is already registered and entered to account.
 Article is the main item of Medium structure. Users post articles, both guests and users read articles.
